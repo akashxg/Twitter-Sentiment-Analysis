@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 # Author: Akash Gheewala
-# Inspired by Siraj Raval: https://github.com/llSourcell
+# Inspired by Siraj Raval: www.youtube.com/c/sirajology
 
 import tweepy
 from textblob import TextBlob
