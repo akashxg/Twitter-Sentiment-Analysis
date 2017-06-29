@@ -1,5 +1,6 @@
 # Twitter Sentiment Analysis
 # Author: Akash Gheewala
+# Inspired by Siraj Raval: https://github.com/llSourcell
 
 import tweepy
 from textblob import TextBlob
